@@ -1,4 +1,4 @@
-# Factorial-Date [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/Carthage/Carthage/master/LICENSE.md) [![GitHub release](https://img.shields.io/github/release/colbertz2/factorial-date.svg)](https://github.com/colbertz2/factorial-date/releases) [![OS compatibility](https://img.shields.io/badge/compatibility-unix-lightgrey.svg)](https://en.wikipedia.org/wiki/List_of_Unix_systems)
+# Factorial-Date [![GitHub license](https://img.shields.io/badge/license-MIT-lightgrey.svg)](https://raw.githubusercontent.com/colbertz2/factorial-date/colbertz2-readme/LICENSE) [![GitHub release](https://img.shields.io/github/release/colbertz2/factorial-date.svg)](https://github.com/colbertz2/factorial-date/releases) [![OS compatibility](https://img.shields.io/badge/compatibility-unix-lightgrey.svg)](https://en.wikipedia.org/wiki/List_of_Unix_systems)
 Converts the factorial of an integer to a UNIX Epoch date.
 
 ## Usage
