@@ -2,14 +2,14 @@
 Converts the factorial of an integer to a UNIX Epoch date.
 
 ## Usage
-`fd <int i>` will find the factorial $i!$ and print the corresponding UNIX Epoch date to the console.
+`fd <int i>` will find the factorial i! and print the corresponding UNIX Epoch date to the console.
 
 ## Installation
 At present, the application is only compatible with UNIX-based systems.
 
-(1) Download the latest [release](https://github.com/colbertz2/factorial-date/releases/latest)
-(2) `cd` to the location of the ZIP file. Unzip it into a folder with `unzip fd-x_x_x.zip -d fd`
-(3) `cd` into the new folder and run `make install`
+1) Download the latest [release](https://github.com/colbertz2/factorial-date/releases/latest)
+2) `cd` to the location of the ZIP file. Unzip it into a folder with `unzip fd-x_x_x.zip -d fd`
+3) `cd` into the new folder and run `make install`
 
 ## Features
 ### Takes Command Line Argument
